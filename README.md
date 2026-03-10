@@ -12,7 +12,7 @@ By completing this project, the following objectives were achieved:
 - Understand the structure and components of a landing page
 - Implement HTML and CSS to create a visually appealing e-commerce page
 - Apply basic responsive design principles for different screen sizes
-- Use JavaScript to add basic interactivity
+
 
 ## Website Features
 
@@ -55,4 +55,13 @@ Additional links:
 - Privacy Policy
 
 Social media icons are also included.
+
+## Note on JavaScript Usage
+
+The original requirements for this activity only required the use of **HTML and CSS** to build the product landing page. However, **JavaScript was also used in this project for additional creativity and learning purposes**.
+
+Although JavaScript was **not a required part of the activity**, it was included to enhance the overall functionality and improve the user experience of the website. This was done as an opportunity to further develop my knowledge and skills in front-end web development.
+
+The use of JavaScript in this project is therefore **optional and supplementary**, and it does not replace the primary objective of demonstrating the use of **HTML and CSS for building a responsive landing page**.
+
 
